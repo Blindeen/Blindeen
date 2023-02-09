@@ -1,5 +1,5 @@
 ### Hi there 👋
-Computer science student and programming enthusiast
+Computer science student and programming enthusiast. I'm interested in web programming, especially in front-end
 <!--
 **Blindeen/Blindeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
