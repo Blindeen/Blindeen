@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kubaszmajda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kubaszmajda" height="30" width="40" /></a>
+<a href="https://twitter.com/kubaszmajda" target="blank" style="text-decoration: none;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kubaszmajda" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jakub-szmajda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakub-szmajda" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21788587" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21788587" height="30" width="40" /></a>
 <a href="https://fb.com/kubaszmajda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kubaszmajda" height="30" width="40" /></a>
