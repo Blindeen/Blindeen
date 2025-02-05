@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">A passionate student with a keen interest in frontend technologies, particularly React 🌐✨</h3>
 
-- 🔭 I’m currently working on **Engineering Thesis**
+- 🔭 I’m currently working on **side projects**
 
-- 🌱 I’m currently learning **React, Spring Boot, JavaScript, TypeScript, Java**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at my [GitHub](https://github.com/Blindeen)
 
