@@ -1,7 +1,7 @@
 <h1>Hi, I'm Jakub 👋</h1>
 <h3>A passionate student with a keen interest in web technologies and machine learning</h3>
 
-<h2>Personal details</h2>
+<h2>Personal details 🪪</h2>
 
 ```json
 {
@@ -11,7 +11,7 @@
 }
 ```
 
-<h2>Education</h2>
+<h2>Education 🎓</h2>
 
 ```json
 [
@@ -24,6 +24,25 @@
     "degree": "Master of Engineering",
     "major": "Artificial Intelligence and Machine Learning",
     "status": "Studying 💻"
+  }
+]
+```
+
+<h2>Experience 💼</h2>
+
+```json
+[
+  {
+    "company": "Geberit",
+    "position": "PHP developer trainee"
+  },
+  {
+    "company": "ZF Friedrichshafen AG",
+    "position": "Django developer trainee"
+  },
+  {
+    "company": "HTD Health",
+    "position": "React developer trainee"
   }
 ]
 ```
