@@ -34,15 +34,19 @@
 [
   {
     "company": "Geberit",
-    "position": "PHP developer trainee"
+    "position": "Software Engineer Intern"
+  },
+  {
+    "company": "Geberit",
+    "position": "Software Engineer Trainee"
   },
   {
     "company": "ZF Friedrichshafen AG",
-    "position": "Django developer trainee"
+    "position": "Backend Developer Trainee"
   },
   {
     "company": "HTD Health",
-    "position": "React developer trainee"
+    "position": "Frontend Developer Trainee"
   }
 ]
 ```
