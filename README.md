@@ -16,14 +16,14 @@
 ```json
 [
   {
-    "degree": "Bachelor of Engineering",
-    "major": "Computer Science",
-    "status": "Graduated 👨🏻‍🎓"
-  },
-  {
     "degree": "Master of Engineering",
     "major": "Artificial Intelligence and Machine Learning",
     "status": "Studying 💻"
+  },
+  {
+    "degree": "Bachelor of Engineering",
+    "major": "Computer Science",
+    "status": "Graduated 👨🏻‍🎓"
   }
 ]
 ```
