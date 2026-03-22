@@ -18,11 +18,15 @@
   {
     "degree": "Master of Engineering",
     "major": "Artificial Intelligence and Machine Learning",
+    "startYear": 2025,
+    "endYear": null,
     "status": "Studying 💻"
   },
   {
     "degree": "Bachelor of Engineering",
     "major": "Computer Science",
+    "startYear": 2021,
+    "endYear": 2025,
     "status": "Graduated 👨🏻‍🎓"
   }
 ]
@@ -38,15 +42,15 @@
   },
   {
     "company": "Geberit",
-    "position": "Software Engineer Trainee"
+    "position": "Projekt Innowacja Participant"
   },
   {
     "company": "ZF Friedrichshafen AG",
-    "position": "Backend Developer Trainee"
+    "position": "Projekt Innowacja Participant"
   },
   {
     "company": "HTD Health",
-    "position": "Frontend Developer Trainee"
+    "position": "Projekt Innowacja Participant"
   }
 ]
 ```
@@ -57,3 +61,17 @@
 <a href="https://stackoverflow.com/users/21788587" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21788587" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jakubszmajda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jakubszmajda" height="30" width="40" /></a>
 </p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Blindeen/Blindeen/refs/heads/github-breakout/images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Blindeen/Blindeen/refs/heads/github-breakout/images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/Blindeen/Blindeen/refs/heads/github-breakout/images/breakout-light.svg" />
+</picture>
+
+<sup>Animated contribution graph generated thanks to [@cyprieng](https://github.com/cyprieng/)</sup>
